@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "koa2项目开发一个电影网站",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/595887491/koa2-.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/595887491/koa2-/issues"
+  },
+  "homepage": "https://github.com/595887491/koa2-#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "pug": "^2.0.3",
+    "puppeteer": "^1.14.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
